@@ -2,6 +2,6 @@
 
 ### Fall 2020    Jack Wong & Renjun Cheng
 
-### All code in ipynb file
+#### All code in ipynb file
 
-### PDF is our PPT report
+#### PDF file is our PPT report
